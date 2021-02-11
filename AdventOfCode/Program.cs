@@ -11,7 +11,8 @@ namespace AdventOfCode
             //Day1.StartProcess();
             //Day2.StartProcess();
             //Day3.StartProcess();
-            Day4.StartProcess();
+            //Day4.StartProcess();
+            Day5.StartProcess();
         }
     }
 }
