@@ -7,11 +7,11 @@ using System.Linq;
 
 namespace AdventOfCode
 {
-    class Day3
+    class Day03
     {
         public static void StartProcess()
         {
-            string[] inputList = System.IO.File.ReadAllLines("../../../Input/Day3_Input.txt");
+            string[] inputList = System.IO.File.ReadAllLines("../../../Input/Day03_Input.txt");
 
             //Timer Start
             Stopwatch sw = new Stopwatch();

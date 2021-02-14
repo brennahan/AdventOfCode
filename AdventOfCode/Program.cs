@@ -8,15 +8,16 @@ namespace AdventOfCode
         {
             //Console.WriteLine("Hello World!");
 
-            //Day1.StartProcess();
-            //Day2.StartProcess();
-            //Day3.StartProcess();
-            //Day4.StartProcess();
-            //Day5.StartProcess();
-            //Day6.StartProcess();
-            //Day7.StartProcess();
-            //Day8.StartProcess();
-            Day9.StartProcess();
+            //Day01.StartProcess();
+            //Day02.StartProcess();
+            //Day03.StartProcess();
+            //Day04.StartProcess();
+            //Day05.StartProcess();
+            //Day06.StartProcess();
+            //Day07.StartProcess();
+            //Day08.StartProcess();
+            //Day09.StartProcess();
+            Day10.StartProcess();
         }
     }
 }

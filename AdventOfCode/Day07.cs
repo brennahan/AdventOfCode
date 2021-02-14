@@ -8,13 +8,13 @@ using System.Text.RegularExpressions;
 
 namespace AdventOfCode
 {
-    class Day7
+    class Day07
     {
         private static Dictionary<string, Dictionary<string, int>> bagList = new Dictionary<string, Dictionary<string, int>>();
 
         public static void StartProcess()
         {
-            string[] inputList = System.IO.File.ReadAllLines("../../../Input/Day7_Input.txt");
+            string[] inputList = System.IO.File.ReadAllLines("../../../Input/Day07_Input.txt");
 
             //Timer Start
             Stopwatch sw = new Stopwatch();

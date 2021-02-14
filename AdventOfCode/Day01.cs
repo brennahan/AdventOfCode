@@ -6,13 +6,13 @@ using System.IO;
 
 namespace AdventOfCode
 {
-    class Day1
+    class Day01
     {
         public static void StartProcess()
         {
             //Some sort of loop to find what adds up to 2020
             //Multiply the specified numbers together
-            string[] inputRawList = System.IO.File.ReadAllLines("../../../Input/Day1_Input.txt");
+            string[] inputRawList = System.IO.File.ReadAllLines("../../../Input/Day01_Input.txt");
             int[] inputList = new int[inputRawList.Length];
 
             for (int i = 0; i < inputRawList.Length; i++)

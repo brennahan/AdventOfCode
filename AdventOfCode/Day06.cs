@@ -8,12 +8,12 @@ using System.Text.RegularExpressions;
 
 namespace AdventOfCode
 {
-    class Day6
+    class Day06
 
     {
         public static void StartProcess()
         {
-            string[] inputList = System.IO.File.ReadAllLines("../../../Input/Day6_Input.txt");
+            string[] inputList = System.IO.File.ReadAllLines("../../../Input/Day06_Input.txt");
 
             //Timer Start
             Stopwatch sw = new Stopwatch();
