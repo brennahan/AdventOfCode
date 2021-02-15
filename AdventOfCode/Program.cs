@@ -18,7 +18,8 @@ namespace AdventOfCode
             //Day08.StartProcess();
             //Day09.StartProcess();
             //Day10.StartProcess();
-            Day11.StartProcess();
+            //Day11.StartProcess();
+            Day12.StartProcess();
         }
     }
 }
